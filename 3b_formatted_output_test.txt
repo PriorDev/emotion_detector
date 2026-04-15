@@ -1,0 +1,1 @@
+{'anger': 0.027191523, 'disgust': 0.010875148, 'fear': 0.113355674, 'joy': 0.40398222, 'sadness': 0.40794578, 'dominant_emotion': 'sadness'}
